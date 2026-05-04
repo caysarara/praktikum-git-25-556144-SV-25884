@@ -19,3 +19,8 @@ Project ini merupakan website sederhana bertema Bank Sampah Digital yang dibuat 
 ![Git Log](ss_website.png)
 
 # Dokumentasi setiap Perintah Git
+![Git Log](ss1_add.png)
+Git mendeteksi ada file baru yang belum disimpan. Perintah git add digunakan untuk memasukkan file ke dalam proses commit. Kemudian git commit untuk menyimpan perubahan, dan git push untuk mengirim ke GitHub.
+git add .
+git commit -m "docs: update README"
+git push
