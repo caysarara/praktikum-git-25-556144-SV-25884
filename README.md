@@ -2,3 +2,6 @@
 
 # Screenshoot
 ![Git Log](tugas-1.png)
+
+# Screenshoot
+![Git Log](tugas-2.png)
